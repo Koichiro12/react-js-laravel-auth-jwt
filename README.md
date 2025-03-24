@@ -1,6 +1,6 @@
 # React Js + Laravel 12 Simple Auth With auth-jwt
 
-Framework
+Framework <br>
 Frontend : React JS <br>
 Backend : Laravel 12 <br>
 
